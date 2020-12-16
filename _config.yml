@@ -7,9 +7,9 @@
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: zheng-chuang                          # the main title
+title: 郑闯                          # the main title
 
-tagline: 前端开发者  # it will display as the sub-title
+tagline: 个人技术博客  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   郑闯的博客,郑闯闯的博客,前端开发郑闯闯,angular,react
